@@ -4,6 +4,8 @@ import urllib.parse
 import pandas as pd
 import psycopg2
 from psycopg2.extras import execute_values  
+import os
+from dotenv import load_dotenv
 
 query = "DonaldTrump"
 encoded_query = urllib.parse.quote(query)
