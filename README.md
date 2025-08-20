@@ -103,4 +103,4 @@ F1 Score
 Contributions are welcome! Fork the repo, create a feature branch, and submit a pull request with improvements.
 
 **Author:** Kartikay Luthra  
-**Contact:** [LinkedIn](https://www.linkedin.com/in/kartikayluthra) | Email
+**Contact:** [LinkedIn](https://www.linkedin.com/in/kartikayluthra) | Email:kartikluthra2020@gmail.com
