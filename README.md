@@ -10,6 +10,8 @@
 ![tqdm](https://img.shields.io/badge/tqdm-progress--bar-orange)
 ![Regex](https://img.shields.io/badge/Regex-regular--expressions-lightgrey)
 ![Standard Library](https://img.shields.io/badge/Python-Standard%20Library-blue)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
+
 A lightweight **Python pipeline** for analyzing news sentiment using **state-of-the-art NLP models**. This project fetches, processes, and evaluates news data to classify sentiment, making it useful for research, dashboards, or exploratory analysis.
 
 ## 🔑 Key Features
