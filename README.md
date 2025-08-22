@@ -1,4 +1,15 @@
 # News Sentiment Pipeline
+![Python](https://img.shields.io/badge/Python-3.11-blue?logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)
+![Transformers](https://img.shields.io/badge/Transformers-HuggingFace-yellow?logo=huggingface&logoColor=black)
+![HuggingFace Hub](https://img.shields.io/badge/HuggingFace-Hub-yellow?logo=huggingface&logoColor=black)
+![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-red?logo=databricks&logoColor=white)
+![tqdm](https://img.shields.io/badge/tqdm-progress--bar-orange)
+![Regex](https://img.shields.io/badge/Regex-regular--expressions-lightgrey)
+![Standard Library](https://img.shields.io/badge/Python-Standard%20Library-blue)
 A lightweight **Python pipeline** for analyzing news sentiment using **state-of-the-art NLP models**. This project fetches, processes, and evaluates news data to classify sentiment, making it useful for research, dashboards, or exploratory analysis.
 
 ## 🔑 Key Features
