@@ -32,9 +32,23 @@ A lightweight **Python pipeline** for analyzing news sentiment using **state-of-
     
 
 ## 🗂 Project Structure
-
-`news-sentiment-pipeline/ ├── config.py                 # Configuration for models, paths, and settings ├── src/                      # Core pipeline code │   ├── __init__.py │   ├── apiclient.py          # Fetch news data from APIs │   └── preprocessing.py      # Data cleaning & preprocessing ├── main.py                   # Entry point for running the pipeline ├── docker/                   # Docker setup for containerized execution ├── requirements.txt          # Python dependencies ├── README.md                 # Documentation ├── .gitignore └── .gitattributes`
-
+```
+news-sentiment-pipeline/
+│
+├── config.py                 # Configuration for models, paths, and settings
+├── main.py                   # Entry point for running the pipeline
+├── requirements.txt          # Python dependencies
+├── README.md                 # Documentation
+├── .gitignore
+├── .gitattributes
+│
+├── src/                      # Core pipeline code
+│   ├── __init__.py
+│   ├── apiclient.py          # Fetch news data from APIs
+│   └── preprocessing.py      # Data cleaning & preprocessing
+│
+└── docker/                   # Docker setup for containerized execution
+```
 ## 🚀 Getting Started
 
 ### Prerequisites
@@ -48,9 +62,9 @@ A lightweight **Python pipeline** for analyzing news sentiment using **state-of-
 
 1.  Clone the repository:
     
-
+``` bash
 `git clone https://github.com/kartikxx07/news-sentiment-pipeline.git cd news-sentiment-pipeline`
-
+```
 1.  Install dependencies:
     
 
