@@ -67,13 +67,14 @@ news-sentiment-pipeline/
 ```
 1.  Install dependencies:
     
-
+``` bash
 `pip install -r requirements.txt`
-
+```
 1.  Run the pipeline:
     
-
+```bash
 `python main.py --input examples/sample_news.csv --output results.csv`
+```
 
 ## 📊 Basic Metrics (Example)
 
